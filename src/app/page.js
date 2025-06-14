@@ -174,7 +174,7 @@ export default function Home() {
                 transition={{ delay: 0.7 }}
               >
                 <p className="text-xs text-blue-200 italic">
-                  "We make a living by what we get, but we make a life by what we give." — Winston Churchill
+                  <span className="opacity-0">&ldquo;</span>We make a living by what we get, but we make a life by what we give.<span className="opacity-0">&rdquo;</span> — Winston Churchill
                 </p>
               </motion.div>
             </motion.div>
