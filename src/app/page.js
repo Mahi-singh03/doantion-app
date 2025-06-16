@@ -232,7 +232,7 @@ export default function Home() {
                     className="h-4 w-4 text-yellow-600 focus:ring-yellow-500 border-gray-300 rounded"
                   />
                   <label htmlFor="anonymous" className="ml-2 block text-xs md:text-sm text-gray-700">
-                    गुप्त दान करें (नाम "गुप्त सेवक" दिखेगा)
+                    गुप्त दान करें (नाम 'गुप्त सेवक' दिखेगा)
                   </label>
                 </div>
 
