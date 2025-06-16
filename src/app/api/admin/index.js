@@ -32,7 +32,7 @@ export default function AdminPanel() {
       }
     });
     return () => unsubscribe();
-  }, []);
+  }, [router]);
 
   const fetchDonations = async () => {
     try {
